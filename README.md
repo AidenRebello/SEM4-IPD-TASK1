@@ -95,8 +95,7 @@ The board includes a regulated 5V power supply section with:
 ```markdown
 ![Top View](<img width="625" height="581" alt="image" src="https://github.com/user-attachments/assets/44237a23-9b0f-4b50-a84e-91c0177f63dc" />
 )
-![Bottom View](<img width="590" height="557" alt="image" src="https://github.com/user-attachments/assets/bd40d8e8-acc7-40c5-b0ad-604a2e044214" />
-)
+![Bottom View](https://github.com/user-attachments/assets/bd40d8e8-acc7-40c5-b0ad-604a2e044214)
 ```
 
 ---
