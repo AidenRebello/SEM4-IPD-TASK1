@@ -61,9 +61,7 @@ The board includes a regulated 5V power supply section with:
 
 ##  Design Tools
 
-- PCB Design Software: (Add your software name here)
-- Programming IDE: Arduino IDE  
-- Programmer: USBasp / Arduino as ISP  
+- PCB Design Software: KiCAD
 
 ---
 
@@ -92,11 +90,13 @@ The board includes a regulated 5V power supply section with:
 
 ## Board Images
 
-Place board images inside the `Images` folder and link them like this:
+
 
 ```markdown
-![Top View](Images/top_view.png)
-![Bottom View](Images/bottom_view.png)
+![Top View](<img width="625" height="581" alt="image" src="https://github.com/user-attachments/assets/44237a23-9b0f-4b50-a84e-91c0177f63dc" />
+)
+![Bottom View](<img width="590" height="557" alt="image" src="https://github.com/user-attachments/assets/bd40d8e8-acc7-40c5-b0ad-604a2e044214" />
+)
 ```
 
 ---
